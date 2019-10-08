@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I Eat Banada
+I am Sirlupinwatson III
+
+
 Use the left arrow to go back!
